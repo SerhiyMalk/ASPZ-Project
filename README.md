@@ -26,7 +26,6 @@
 ## Приклад запуску
 
 1. Створення тестового файлу:
-```bash
 echo -e "apple\nword test\nbanana\nanother word\nhello" > file.txt
 
 <img width="715" height="144" alt="image" src="https://github.com/user-attachments/assets/5dca44b8-883a-4fef-96fd-76fc21d9974e" />
